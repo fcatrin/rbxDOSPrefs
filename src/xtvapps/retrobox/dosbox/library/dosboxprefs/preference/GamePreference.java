@@ -1,4 +1,4 @@
-package com.fishstix.dosbox.library.dosboxprefs.preference;
+package xtvapps.retrobox.dosbox.library.dosboxprefs.preference;
 
 public class GamePreference {
 	public static final int HARDCODE_KEY = 23;
