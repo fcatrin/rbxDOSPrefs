@@ -20,7 +20,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import xtvapps.retrobox.dosbox.library.dosboxprefs.R;
+import xtvapps.retrobox.v2.dosbox.library.dosboxprefs.R;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
